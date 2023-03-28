@@ -1,7 +1,7 @@
 
 /* 
-  Author:          
-  Date:
+  Author: Sejin Yoon
+  Date: Mar 29, 2023
   Program: Calorie Calculator
   filename: Assignment3_P1.cpp
 */
