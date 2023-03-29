@@ -21,7 +21,7 @@ int main()
 {
     double weight;
     
-    //Student --- TODOS
+    void getWeight() 
     
     cout<<" Total Bad calories";
     
@@ -47,7 +47,10 @@ double inputValidate(double num)
 void getWeight(double &num)
 {
     cout  << "What is the weight in pounds: ";
-    //Student ---TODOS
+    cin << num;
+    getWeight() = (f'num{num*0.454}"kg") 
+    
+
     
 }
 
